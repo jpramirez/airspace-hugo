@@ -52,39 +52,35 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
+  title: Our Stats
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
-    count: "99"
+    count: "1000"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Network nodes
+    count: "5300"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: 'Security Feed processed '
+    count: "4500"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Collaborating plugins
+    count: "43"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Tape
+    image: ''
+    designation: ''
+    content: Securing the world, one device at a time.
+  - name: Tapestry - Social Framework
+    image: ''
+    designation: ''
+    content: Providing a truly decentralize experience platform. Allowing communities
+      to grow and collaborate.
+  - name: Penelope
+    image: ''
+    designation: ''
+    content: Delivering high end data lake for business, enriching data and empowering
+      businesses
