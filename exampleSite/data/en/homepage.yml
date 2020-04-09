@@ -40,6 +40,12 @@ portfolio:
     link: project
 service:
   enable: true
+  title: Our Products
+  description: 'Design to be independent, secure and resilient '
+  service_item:
+  - name: Tapestry
+    content: A federated and decentralized social platform.
+    icon: ion-planet
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
