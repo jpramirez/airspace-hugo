@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  bg_image: images/featue-bg.png
+  title: Secure resilient software solutions
+  content: We provide technology services, empowering individuals and their communities
+    navigating the path of secure self sustainabilty.
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
@@ -51,7 +51,7 @@ cta:
     label: Our Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Our Stats
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
@@ -69,18 +69,4 @@ funfacts:
   - icon: ion-ios-timer-outline
     name: Collaborating plugins
     count: "43"
-  testimonial_slider:
-  - name: Tape
-    image: ''
-    designation: ''
-    content: Securing the world, one device at a time.
-  - name: Tapestry - Social Framework
-    image: ''
-    designation: ''
-    content: Providing a truly decentralize experience platform. Allowing communities
-      to grow and collaborate.
-  - name: Penelope
-    image: ''
-    designation: ''
-    content: Delivering high end data lake for business, enriching data and empowering
-      businesses
+  testimonial_slider: []
