@@ -20,38 +20,70 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
+[[menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
 [[menu.footer]]
 URL = "service"
 name = "Service"
-weight = 2
+weight = 3
 [[menu.footer]]
+URL = "pricing"
+name = "Pricing"
+weight = 4
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 5
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.main]]
 URL = "service"
 name = "Service"
-weight = 2
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 5
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+weight = 6
 [params]
-author = "Themefisher"
+author = "Epyphite"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "jramirez@epyphite.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Singapore"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "+65 9352 8302"
 multi_author = false
 [params.gmap]
 enable = true
@@ -87,20 +119,8 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = ""
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+link = "https://www.linkedin.com/company/epyphite/about/"
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://twitter.com/shellcheff"
