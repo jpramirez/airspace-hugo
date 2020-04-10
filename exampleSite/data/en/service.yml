@@ -48,8 +48,5 @@ service:
   - icon: ion-compass
     name: Compass
     content: Service discovery and orchestration framework
-  - icon: ion-headphone
-    name: Calypso
-    content: Encrypted P2P Communications for today's security standards
 cta:
   enable: true
