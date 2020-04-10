@@ -1,6 +1,7 @@
 ---
 title: Drop Us A Note
-description: Let us know how we can help
-bg_image: images/featue-bg.jpg
+description: To find out more about our solution and how @Epyphite can help you and
+  your organization.
+bg_image: "/images/AnonymizeImageCrowd.jpeg"
 
 ---
