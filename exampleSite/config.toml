@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Epyphite - Resilient Software"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Epyphite](https://epyphite.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -48,7 +48,7 @@ google_analitycs_id = ""
 location = "Singapore"
 logo = "images/logo.png"
 mobile = "+65 9352 8302"
-multi_author = false
+multi_author = true
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
