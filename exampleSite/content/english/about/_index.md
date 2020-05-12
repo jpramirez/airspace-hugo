@@ -1,9 +1,12 @@
 ---
 title: About Our Company
-description: 'Based in Singapore, our boutique "Secure by design" company was born
-  out the need to fill the gap between deep technology and it''s implication in daily
-  life. We are a passionate group of individuals that strongly believe in the empowerment
-  of society through technology. '
-bg_image: images/featue-bg.png
+description: Epyphite team was born with a vision to transform our daily lives, safely
+  with software. Our team primary focus is to provide the needed ecosystem to empower
+  communities though technology.  Born in Buenos Aires in 2007, epyphite has been
+  present in major cities across the Americas, Europe and Asia, to finally establish
+  itself in Singapore.  Our Mission is to provide agile and actionable solutions to
+  an ecosystem of people.  regulators , corporate and innovators, aiming to become
+  a better, safer, fair and resilient society.
+bg_image: images/featue-bg.jpg
 
 ---
