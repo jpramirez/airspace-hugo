@@ -1,17 +1,13 @@
 ---
 about:
   enable: false
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  title: Welcome to Epyphite.
+  content: |
+    Epyphite team was born with a vision to transform our daily lives, safely with software. Our team primary focus is to provide the needed ecosystem to empower communities though technology.
+
+    Born in Buenos Aires in 2007, epyphite has been present in major cities across the Americas, Europe and Asia, to finally establish itself in Singapore.
+
+    Our Mission is to provide agile and actionable solutions to an ecosystem of people.  regulators , corporate and innovators, aiming to become a better, safer, fair and resilient society.
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
