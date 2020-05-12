@@ -1,6 +1,6 @@
 ---
 about:
-  enable: false
+  enable: true
   image: images/company/about.jpg
   title: Welcome to Epyphite.
   content: |
@@ -10,7 +10,7 @@ about:
 
     Our Mission is to provide agile and actionable solutions to an ecosystem of people.  regulators , corporate and innovators, aiming to become a better, safer, fair and resilient society.
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts: []
