@@ -45,4 +45,4 @@ service:
     name: Compass
     content: Service discovery and orchestration framework
 cta:
-  enable: true
+  enable: false
