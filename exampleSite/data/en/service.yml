@@ -1,6 +1,6 @@
 ---
 about:
-  enable: false
+  enable: true
   title: Welcome to Epyphite.
   content: |
     Epyphite team was born with a vision to transform our daily lives, safely with software. Our team primary focus is to provide the needed ecosystem to empower communities though technology.
