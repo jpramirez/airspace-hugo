@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   image: images/company/about.jpg
   title: Welcome to Epyphite.
   content: |
