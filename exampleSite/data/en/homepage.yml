@@ -57,20 +57,11 @@ cta:
 funfacts:
   enable: false
   title: Our Stats
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
-  funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "1000"
-  - icon: ion-ios-glasses-outline
-    name: Network nodes
-    count: "5300"
-  - icon: ion-ios-compose-outline
-    name: 'Security Feed processed '
-    count: "4500"
-  - icon: ion-ios-timer-outline
-    name: Collaborating plugins
-    count: "43"
+  description: |
+    Epyphite team was born with a vision to transform our daily lives, safely with software. Our team primary focus is to provide the needed ecosystem to empower communities though technology.
+
+    Born in Buenos Aires in 2007, epyphite has been present in major cities across the Americas, Europe and Asia, to finally establish itself in Singapore.
+
+    Our Mission is to provide agile and actionable solutions to an ecosystem of people.  regulators , corporate and innovators, aiming to become a better, safer, fair and resilient society.
+  funfact_item: []
   testimonial_slider: []
