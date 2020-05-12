@@ -7,6 +7,6 @@ description: Epyphite team was born with a vision to transform our daily lives, 
   itself in Singapore.  Our Mission is to provide agile and actionable solutions to
   an ecosystem of people.  regulators , corporate and innovators, aiming to become
   a better, safer, fair and resilient society.
-bg_image: images/featue-bg.jpg
+bg_image: "/images/AnonymizeImageCrowd.jpeg"
 
 ---
