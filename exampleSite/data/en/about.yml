@@ -1,12 +1,14 @@
 ---
 about:
-  enable: false
+  enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title: Welcome to Epyphite.
+  content: |
+    Epyphite team was born with a vision to transform our daily lives, safely with software. Our team primary focus is to provide the needed ecosystem to empower communities though technology.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+    Born in Buenos Aires in 2007, epyphite has been present in major cities across the Americas, Europe and Asia, to finally establish itself in Singapore.
+
+    Our Mission is to provide agile and actionable solutions to an ecosystem of people.  regulators , corporate and innovators, aiming to become a better, safer, fair and resilient society.
   button:
     enable: true
     label: Download Company Profile
