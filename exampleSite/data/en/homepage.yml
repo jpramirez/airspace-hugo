@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image: images/featue-bg.png
   title: Secure resilient software solutions
   content: We provide technology services, empowering individuals and their communities
@@ -45,7 +45,7 @@ service:
     content: A federated and decentralized social platform.
     icon: ion-planet
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Empowering society through technology
   content: Read more about what we do and our philosophy and relationship with technology
