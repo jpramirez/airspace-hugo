@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Epyphite - Resilient Software</title>
+    <link>https://www.epyphite.com/fr/author/</link>
+    <description>Recent content in Authors on Epyphite - Resilient Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 [Epyphite](https://epyphite.com) All Rights Reserved</copyright>
+    
+	<atom:link href="https://www.epyphite.com/fr/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Juan Ramirez</title>
+      <link>https://www.epyphite.com/fr/author/anonymous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.epyphite.com/fr/author/anonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Ramirez</title>
+      <link>https://www.epyphite.com/fr/author/jramirez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.epyphite.com/fr/author/jramirez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
