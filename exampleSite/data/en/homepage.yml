@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image: images/featue-bg.png
   title: Secure resilient software solutions
   content: We provide technology services, empowering individuals and their communities
@@ -10,7 +10,7 @@ banner:
     label: Discover Our Project
     link: project
 about:
-  enable: false
+  enable: true
   title: About Us
   description: ''
   content: |
@@ -37,7 +37,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: false
+  enable: true
   title: Our Products
   description: 'Design to be independent, secure and resilient '
   service_item:
@@ -45,7 +45,7 @@ service:
     content: A federated and decentralized social platform.
     icon: ion-planet
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Empowering society through technology
   content: Read more about what we do and our philosophy and relationship with technology
@@ -55,7 +55,7 @@ cta:
     label: Our Story
     link: contact
 funfacts:
-  enable: false
+  enable: true
   title: Our Stats
   description: |
     Epyphite team was born with a vision to transform our daily lives, safely with software. Our team primary focus is to provide the needed ecosystem to empower communities though technology.
