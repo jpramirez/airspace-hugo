@@ -10,8 +10,8 @@ features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.64.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "epyphite"
+  homepage = "https://epyphite.com/"
 
 [original]
   name = "Airspace"
